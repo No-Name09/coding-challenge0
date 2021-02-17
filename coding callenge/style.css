@@ -1,0 +1,47 @@
+*{
+  margin: auto;
+}
+
+body{
+    background-image: url(sfondo.jpg);
+}
+header, .titoloprincipale{
+  color: lime;
+  text-align: center;
+  font-size: 40px;
+}
+.button{
+  background-color: lime;
+}
+.multipla, .via:before, .multiplo, .multiple{
+  content: "\21D2";
+  color:white;
+  font-size: 18px;
+}
+.rettangolo{
+  width: 530px;
+  height: 40px;
+  background-color: #cd7f32;
+  margin: 7px;
+  border-radius: 10px;
+}
+.secondorettangolo{
+ width: 900px;
+ height: 40px;
+ background-color: green;
+ margin: 7px;
+border-radius: 10px;
+}
+.terzorettangolo{
+  width: 200px;
+  height: 40px;
+  background-color: #fe0000;
+  margin: 7px;
+  border-radius: 10px;
+}
+.box{
+  width: 1900px;
+  height: 1900px;
+  background-color: black;
+  opacity: 0.5;
+}
